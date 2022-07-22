@@ -159,7 +159,7 @@ header > ul  > li:nth-of-type(6){
 .heading{
     text-align: center;
     margin: 1rem auto;
-    color: grey;
+    color: black;
     font-weight: lighter;
 }
 .embed{
@@ -174,7 +174,7 @@ header > ul  > li:nth-of-type(6){
 }
 .para p{
     text-align: center;
-    color: grey;
+    color: black;
     margin: 1rem auto;
     font-weight: 400;
     font-size: 1.1rem;
@@ -220,6 +220,7 @@ header > ul  > li:nth-of-type(6){
     text-align: center;
     line-height: 1.1;
     font-weight: lighter;
+    color: black;
     
 }
 
@@ -298,7 +299,7 @@ header > ul  > li:nth-of-type(6){
     text-align: center;
     line-height: 1.1;
     font-weight: lighter;
-    color: grey;
+    color: black;
     margin-inline: auto;
     margin-bottom: 2rem;
 }
