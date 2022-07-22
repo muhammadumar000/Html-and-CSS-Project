@@ -224,6 +224,7 @@ header > ul  > li:nth-of-type(6){
     text-align: center;
     margin: 2rem auto;
     font-size: 2.5rem;
+    color: gray;
 }
 
 .benfitsgrid{
