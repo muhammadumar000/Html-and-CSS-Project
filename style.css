@@ -160,7 +160,6 @@ header > ul  > li:nth-of-type(6){
     text-align: center;
     margin: 1rem auto;
     color: black;
-    font-weight: lighter;
 }
 .embed{
     /* border: 2px solid rgb(10, 87, 88); */
@@ -176,7 +175,6 @@ header > ul  > li:nth-of-type(6){
     text-align: center;
     color: black;
     margin: 1rem auto;
-    font-weight: 400;
     font-size: 1.1rem;
 
 }
@@ -212,14 +210,12 @@ header > ul  > li:nth-of-type(6){
 .featuresgrid h2{
     text-align: center;
     font-size: 1.6rem;
-    font-weight: lighter;
     color: grey;
 }
 
 .featuresgrid p{
     text-align: center;
     line-height: 1.1;
-    font-weight: lighter;
     color: black;
     
 }
@@ -227,7 +223,6 @@ header > ul  > li:nth-of-type(6){
 .benefits h2{
     text-align: center;
     margin: 2rem auto;
-    color: grey;
     font-size: 2.5rem;
 }
 
@@ -298,7 +293,6 @@ header > ul  > li:nth-of-type(6){
 .videoCollection p{
     text-align: center;
     line-height: 1.1;
-    font-weight: lighter;
     color: black;
     margin-inline: auto;
     margin-bottom: 2rem;
@@ -317,7 +311,6 @@ header > ul  > li:nth-of-type(6){
     padding-top: 3rem;
     color: black;
     font-size: 2.5rem;
-    font-weight: lighter;
     
 }
 
@@ -365,7 +358,6 @@ header > ul  > li:nth-of-type(6){
     text-align: center;
     font-size: 3rem;
     color: rgb(36, 35, 35);
-    font-weight: 200;
 }
 .tag{
     display: flex;
@@ -403,7 +395,6 @@ header > ul  > li:nth-of-type(6){
     text-align: center;
     padding-top: 3rem;
     font-size: 3rem;
-    font-weight: 100;
 }
 
 .platforms_logos{
