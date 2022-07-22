@@ -508,6 +508,9 @@ footer > div > p > a{
     .embed iframe{
         width: 90%;
     }
+    header > img{
+        width: 20%;
+    }
 }
 
 @media (max-width:620px){
@@ -521,6 +524,9 @@ footer > div > p > a{
     }
     .hero{
         width: 100%;
+    }
+    header > img{
+        width: 22%;
     }
 }
 
@@ -564,6 +570,9 @@ footer > div > p > a{
         }
         .heading{
             font-size: 1rem;
+        }
+        header > img {
+            width: 30%;
         }
 }
 
