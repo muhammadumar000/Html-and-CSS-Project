@@ -619,7 +619,7 @@ footer > div > p > a {
     }
     
   .benfitsgrid {
-    grid-template-rows: 390px 270px 270px;
+    grid-template-rows: 430px 290px 290px;
     width: 100%;
   }
   .tag p {
