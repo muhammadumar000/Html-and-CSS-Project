@@ -340,6 +340,7 @@ header > ul > li > a:hover {
   /* border: 2px solid red; */
   /* margin-bottom: 2rem; */
   background-color: rgba(208, 202, 202, 0.93);
+  overflow-x: hidden;
 }
 .whosUsing h2 {
   text-align: center;
@@ -377,6 +378,7 @@ header > ul > li > a:hover {
   margin-inline: auto;
   text-align: center;
   margin-bottom: 2rem;
+  overflow-x: hidden;
 }
 .whosUsing > p > a {
   text-decoration: none;
