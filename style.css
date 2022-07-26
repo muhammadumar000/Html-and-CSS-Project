@@ -562,7 +562,7 @@ footer > div > p > a {
 
 @media (max-width: 496px) {
   .benfitsgrid {
-    grid-template-rows: 340px 220px 220px;
+    grid-template-rows: 380px 240px 240px;
     width: 100%;
   }
   .videos {
